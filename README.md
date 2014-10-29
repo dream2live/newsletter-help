@@ -1,14 +1,7 @@
 newsletter-help
 ===============
 
-created my first newsletter using generic responsive code,
-seems to work ok, but the main paragraphs that span left to right, take up 100% width when you shrink the screen..
-
-could you guys help check to see if this code is good to send for responsive email..
-
-it's my first time coding a newsletter, any help would be appreciated!
-
-   <html xmlns="http://www.w3.org/1999/xhtml">
+    <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>Schulte Research Report</title>
